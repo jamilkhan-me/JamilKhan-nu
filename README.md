@@ -7,7 +7,7 @@ Frontend Developer
 Passionate about learning and building delightful and scalable web applications. Experienced Web Developer specializing in frontend development. Experienced with all stages of the development life cycle for dynamic web projects. Well-Versed in numerous web technologies including JavaScript, React, NodeJS, HTML, CSS, Bootstrap etc. Highly dedicated, self-motivated professional with effective leadership and communication skills. An excellent team player committed to delivering on-time high-quality results to the organization. I am open to grabbing any opportunity.
 
 * 🌍  I'm based in London, United Kingdom
-* 🖥️  See my portfolio at [MyPortfolio](http://jamilkhan.netlify.app)
+* 🖥️  See my portfolio at [MyPortfolio](https://jamilkhan.me)
 * ✉️  You can contact me at [jamilkhan.nu@gmail.com](mailto:jamilkhan.nu@gmail.com)
 * 🧠  I'm learning a new framework such as Next.js, TypeScript, Gatsby etc. I am also learning Data structure and Algorithm.
 * 🤝  I'm open to collaborating on interesting projects
